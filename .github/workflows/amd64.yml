@@ -1,4 +1,4 @@
-name: x86-64 Pull and Save Docker Image
+name: x86-64 MySql:8.0.27
 on:
   workflow_dispatch:
     inputs:
